@@ -1,2 +1,2 @@
 # Exercise-tracker-Microservice
-This is a full-stack JavaScript application that uses a Node.js backend using Express and MongoDB for data storage. The application will allow users to track their exercises and retrieve logs.
+The Exercise Tracker Microservice is a project from freeCodeCamp's Backend Development and APIs curriculum. This project enables users to log their daily exercise activities, providing an interface to create user profiles, track exercises, and retrieve logs.
